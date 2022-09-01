@@ -8,4 +8,4 @@ I mainly code in:
 - C/C++
 - Python
 
-I also like to make stuff in Blender or Gimp.
+I also like to make stuff in Blender.
